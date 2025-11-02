@@ -1,0 +1,1 @@
+This is the merge text : hi, this is the first file and Hi, this is the second file
